@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1095086768056",
+    "firebase_url": "https://healthapp-ce00c-default-rtdb.firebaseio.com",
+    "project_id": "healthapp-ce00c",
+    "storage_bucket": "healthapp-ce00c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095086768056:android:60f96523ce7efec88a594d",
+        "android_client_info": {
+          "package_name": "com.example.background_services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095086768056-jej5asg86a1aof6cs5per3vgdk24vn9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.background_services",
+            "certificate_hash": "44b1037a915b2ee9b5aaf6a7c675cbe0d7f0035f"
+          }
+        },
+        {
+          "client_id": "1095086768056-3g61tffi7tgql26vj7keg0n517jgbbdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv2yaIWqv9I_U0iy4HqZWK3sqiaFKX84E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095086768056-3g61tffi7tgql26vj7keg0n517jgbbdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
